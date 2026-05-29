@@ -1,0 +1,14 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=.;Database=AMCDB;User Id=sa;Password=Asdf@123$;TrustServerCertificate=True"
+  },
+  "launchBrowser": true,
+  "launchUrl": "swagger",
+}
